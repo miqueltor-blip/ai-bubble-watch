@@ -1,1 +1,1 @@
-{"version":2,"functions":{"api/data.js":{"maxDuration":10}},"headers":[{"source":"/(.*)","headers":[{"key":"X-Content-Type-Options","value":"nosniff"}]}]}
+{"version":2,"functions":{"api/data.js":{"maxDuration":30}},"headers":[{"source":"/(.*)","headers":[{"key":"X-Content-Type-Options","value":"nosniff"}]}]}
